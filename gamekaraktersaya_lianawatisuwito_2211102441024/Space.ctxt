@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Create\ the\ space\ and\ all\ objects\ within\ it.\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ Add\ a\ given\ number\ of\ asteroids\ to\ our\ world.\ Asteroids\ are\ only\ added\ into\r\n\ the\ left\ half\ of\ the\ world.\r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ Create\ a\ given\ number\ of\ stars\ in\ space.\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+comment5.params=points
+comment5.target=void\ addToScore(int)
+comment5.text=\r\n\ Increase\ the\ score\ and\ update\ the\ score\ counter.\r\n
+comment6.params=
+comment6.target=void\ bulletHitAlien()
+comment6.text=\r\n\ Check\ if\ a\ bullet\ hit\ an\ alien\ and\ update\ the\ score\ accordingly.\r\n
+numComments=7
